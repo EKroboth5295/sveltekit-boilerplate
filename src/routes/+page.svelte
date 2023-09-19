@@ -20,8 +20,6 @@
 
 		Hello World!
 	</h1>
-
-	<Counter />
 </section>
 
 <style>
